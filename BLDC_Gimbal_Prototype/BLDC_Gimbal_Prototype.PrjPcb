@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NKJOKCYC
 
 [Document4]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Cable Symbols.SchLib
@@ -818,6 +818,27 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUSPNAOO
+
+[Document47]
+DocumentPath=BLDC_Gimbal_Prototype_Lib.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZFVQPZKE
+
+[SearchPath1]
+Path=C:\Engineering\Altium Shared Docs\Library\ExportIntLib\*.*
+IncludeSubFolders=1
 
 [Configuration1]
 Name=Sources
