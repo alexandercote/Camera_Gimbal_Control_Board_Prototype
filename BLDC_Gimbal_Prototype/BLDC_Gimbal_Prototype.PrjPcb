@@ -55,6 +55,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OBNENQGB
 
 [Document2]
+DocumentPath=BLDC_Gimbal_Prototype_Lib.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZFVQPZKE
+
+[Document3]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Integrated Library - Transformers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -69,9 +86,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZUQOELCL
 
-[Document3]
+[Document4]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Buffers & Isolators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKJOKCYC
 
-[Document4]
+[Document5]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Cable Symbols.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -103,9 +120,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PDVOVGEL
 
-[Document5]
+[Document6]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Capacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,9 +137,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QHYMXAEL
 
-[Document6]
+[Document7]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Communications.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,9 +154,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JQJVOLDA
 
-[Document7]
+[Document8]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMAHWCSO
 
-[Document8]
+[Document9]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Crystals & Oscillators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,9 +188,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UIHGEAIX
 
-[Document9]
+[Document10]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Diodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,9 +205,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MLGUCPIY
 
-[Document10]
+[Document11]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Displays.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,9 +222,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KHPJALQB
 
-[Document11]
+[Document12]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,9 +239,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XBDMSMTJ
 
-[Document12]
+[Document13]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Microprocessors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -239,9 +256,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FYDICDEW
 
-[Document13]
+[Document14]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Miscellaneous.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFLPJCYE
 
-[Document14]
+[Document15]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Modules.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,9 +290,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EEMKSBYT
 
-[Document15]
+[Document16]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Regulators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,9 +307,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KEJIATVX
 
-[Document16]
+[Document17]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Relays.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -307,9 +324,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MEEXTBCM
 
-[Document17]
+[Document18]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -324,9 +341,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GFRAWBCP
 
-[Document18]
+[Document19]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Sensors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,9 +358,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AURAVSKJ
 
-[Document19]
+[Document20]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Switches & Push Buttons.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -358,9 +375,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KVLGOECE
 
-[Document20]
+[Document21]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Through Hole.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -375,9 +392,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QUPQFFKC
 
-[Document21]
+[Document22]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Transformers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -392,9 +409,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IUOKMSHV
 
-[Document22]
+[Document23]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Transistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -409,9 +426,26 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VAQQLRFE
 
-[Document23]
+[Document24]
+DocumentPath=..\..\..\Altium download dump\12v out caps\AltiumDesigner\2019-06-11_23-40-55\2019-06-11_23-40-55.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UFVFNTCX
+
+[Document25]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Buffers & Isolators.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YPUOXCBW
 
-[Document24]
+[Document26]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Capacitors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document27]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Communications.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document28]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Connectors (UVic AERO Club's conflicted copy 2016-11-01).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document29]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document30]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Crystals & Oscillators.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document31]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Diodes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document32]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Displays.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document33]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document34]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Microprocessors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document35]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Miscellaneous.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document36]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document37]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Regulators (UVic AERO Club's conflicted copy 2016-11-01).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document38]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Regulators.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document39]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Relays.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document40]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Resistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document41]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Sensors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document42]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Switches & Push Buttons.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document43]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Through Hole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +768,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document44]
+DocumentPath=..\..\..\Altium download dump\5V Output cap\AltiumDesigner\2019-06-12_01-37-35\2019-06-12_01-37-35.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PKCYLASA
+
+[Document45]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Transformers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document46]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Transistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document47]
 DocumentPath=Motor_Driver_DRV8313.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZOGMVKZA
 
-[Document45]
+[Document48]
 DocumentPath=RC_Level_Shifter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTRQKBNA
 
-[Document46]
+[Document49]
 DocumentPath=Power_Management_System.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,8 +870,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUSPNAOO
 
-[Document47]
-DocumentPath=BLDC_Gimbal_Prototype_Lib.SCHLIB
+[Document50]
+DocumentPath=..\..\..\Altium download dump\12v ind\AltiumDesigner\2019-06-11_23-16-08\2019-06-11_23-16-08.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -834,7 +885,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZFVQPZKE
+DocumentUniqueId=RYYOAGAY
+
+[Document51]
+DocumentPath=..\..\..\Altium download dump\5V ind\AltiumDesigner\2019-06-12_00-51-37\2019-06-12_00-51-37.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QDDUHJDL
 
 [SearchPath1]
 Path=C:\Engineering\Altium Shared Docs\Library\ExportIntLib\*.*
