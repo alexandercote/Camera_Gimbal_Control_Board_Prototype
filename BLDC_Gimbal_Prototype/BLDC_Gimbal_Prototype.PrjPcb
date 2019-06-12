@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for BLDC_Gimbal_Prototype
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZUQOELCL
+DocumentUniqueId=IZSJQODN
 
 [Document4]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Buffers & Isolators.SchLib
@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PDVOVGEL
+DocumentUniqueId=EZCBJWHE
 
 [Document6]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Capacitors.SchLib
@@ -290,7 +290,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EEMKSBYT
+DocumentUniqueId=EQMWHIGD
 
 [Document16]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Regulators.SchLib
@@ -392,7 +392,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QUPQFFKC
+DocumentUniqueId=VUSLKYPE
 
 [Document22]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Transformers.SchLib
@@ -409,7 +409,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IUOKMSHV
+DocumentUniqueId=RHZWUKLF
 
 [Document23]
 DocumentPath=..\..\..\AERO Schematic Libraries\AERO Schematic Library - Transistors.SchLib
@@ -965,7 +965,7 @@ AddNetNetLabels=-1
 AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
-ExportBOM=-1
+ExportBOM=0
 TemplateFilename=Board Stack Report.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=1
@@ -989,7 +989,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for BLDC_Gimbal_Prototype
 
 [OutputGroup1]
 Name=Netlist Outputs
