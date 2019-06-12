@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for BLDC_Gimbal_Prototype
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -429,6 +429,23 @@ GenerateClassCluster=0
 DocumentUniqueId=VAQQLRFE
 
 [Document24]
+DocumentPath=..\..\..\Altium download dump\ina169\AltiumDesigner\2019-06-12_03-26-28\2019-06-12_03-26-28.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XIDMAMVG
+
+[Document25]
 DocumentPath=..\..\..\Altium download dump\12v out caps\AltiumDesigner\2019-06-11_23-40-55\2019-06-11_23-40-55.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UFVFNTCX
 
-[Document25]
+[Document26]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Buffers & Isolators.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YPUOXCBW
 
-[Document26]
+[Document27]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Capacitors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document28]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Communications.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Connectors (UVic AERO Club's conflicted copy 2016-11-01).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document30]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Crystals & Oscillators.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Diodes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document33]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Displays.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document34]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document35]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Microprocessors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document36]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Miscellaneous.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document37]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document38]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Regulators (UVic AERO Club's conflicted copy 2016-11-01).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document39]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Regulators.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document40]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Relays.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Resistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document42]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Sensors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document43]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Switches & Push Buttons.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document44]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Through Hole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document45]
 DocumentPath=..\..\..\Altium download dump\5V Output cap\AltiumDesigner\2019-06-12_01-37-35\2019-06-12_01-37-35.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PKCYLASA
 
-[Document45]
+[Document46]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Transformers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document47]
 DocumentPath=..\..\..\AERO PCB Libraries\AERO PCB Library - Transistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document48]
 DocumentPath=Motor_Driver_DRV8313.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZOGMVKZA
 
-[Document48]
+[Document49]
 DocumentPath=RC_Level_Shifter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,7 +870,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTRQKBNA
 
-[Document49]
+[Document50]
 DocumentPath=Power_Management_System.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -870,7 +887,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUSPNAOO
 
-[Document50]
+[Document51]
 DocumentPath=..\..\..\Altium download dump\12v ind\AltiumDesigner\2019-06-11_23-16-08\2019-06-11_23-16-08.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -887,7 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYYOAGAY
 
-[Document51]
+[Document52]
 DocumentPath=..\..\..\Altium download dump\5V ind\AltiumDesigner\2019-06-12_00-51-37\2019-06-12_00-51-37.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -904,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDDUHJDL
 
-[Document52]
+[Document53]
 DocumentPath=BLDC_Gimbal_Prototype.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -972,7 +989,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for BLDC_Gimbal_Prototype
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1587,6 +1604,36 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad v7 Capture Design
+OutputName12=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=P-CAD ASCII
+OutputName13=P-CAD ASCII (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD V16 Schematic Design
+OutputName14=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=SiSoft
+OutputName15=SiSoft (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
